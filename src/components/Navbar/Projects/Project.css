@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.projecthead{
+    text-align:center;
+    text-decoration: underline;
+    padding-bottom:8px;
+    text-decoration-color:red;
+    margin-top:5%;
+}
+.card{
+    border-radius:50px;
+    background-image: radial-gradient(red,grey);
+    margin-bottom: 18px;
+}
+.card-image{
+
+    border-radius: 25px;
+    max-width:100%;
+    max-height: 100%;
+    width:100px;
+    height:300px;
+}
+.project1{
+    font-family: "Lobuster";
+    font-size:20px;
+    color:black;
+    text-align: center;
+    padding-top:16px;
+    font-weight: 900;
+    
+}
+.projectpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
+    font-weight:800;
+    color:yellowgreen;
+}
+.projectlist{
+    color:black;
+    
+}

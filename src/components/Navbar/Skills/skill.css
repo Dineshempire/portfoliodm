@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+ .bg{
+    background-color: aliceblue;
+    height: 750px;
+    color: black;
+ }
+ .skillhead
+ {
+    text-align:center;
+    margin-top:3%;
+    font-family:"Lobuster";
+    font-weight:200px;
+ }
+ .para2{
+    font-size:18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    padding-left:12%;
+    font-size:25px;
+    margin-top:2%;
+    
+    
+}
+.skillhead1{
+    font-family:"Caveat";
+    padding-left:3%;
+    text-decoration: underline;
+    
+}
+.skillbor{
+   
+   border-width: 80px;
+   border-color:red;
+   background-image:radial-gradient(red,black,blue);
+   width:30%;
+   margin-left:33%;
+   border-radius:10px;
+
+}
+.card1{
+    background-image:radial-gradient(red,black);
+    border-radius:6px;
+    width:25%;
+    margin-left:5%;
+    margin-top:2%;
+    height:125px;
+    
+}
+.cardimage:hover{
+   border-radius:25px;
+   padding:8px;
+   transform:scale(1.1);
+   
+}
+.cardpara{
+   font-family:monospace;
+   font-size:25px;
+   text-decoration: underline;
+}
+.cardspace{
+   padding-left:30px;
+
+}
